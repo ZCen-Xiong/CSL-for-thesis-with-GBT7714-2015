@@ -10,4 +10,7 @@
 
 修改效果请如图所示 ![biblio.jpg](biblio.jpg)
 
+如果你的英文还不对的话，请去zotero里改属性
+ ![property.png](property.png)
+
 参考资料：[https://zhuanlan.zhihu.com/p/581479488](https://zhuanlan.zhihu.com/p/581479488)
