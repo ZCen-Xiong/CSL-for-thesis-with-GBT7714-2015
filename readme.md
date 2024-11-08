@@ -1,4 +1,5 @@
-# 毕业论文 GB/T 7714-2015 CSL 文件修改说明
+# 中国大部分大学研究生毕业论文引用格式
+# GB/T 7714-2015 CSL 文件修改说明
 
 参考资料：[https://zhuanlan.zhihu.com/p/581479488](https://zhuanlan.zhihu.com/p/581479488)
 
